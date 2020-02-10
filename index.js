@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const {prefix, token} = require("/home/site/wwwroot/config.json");
+const {prefix, token} = require("./home/site/wwwroot/config.json");
 const client = new Discord.Client();
 
 //channel list
